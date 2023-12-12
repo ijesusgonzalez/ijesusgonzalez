@@ -5,6 +5,8 @@
 
 - 🔭 I've worked on [Driving Customer Value by Behaviour Segmentation](https://www.canva.com/design/DAF2SYuVAtk/ZqleSrT5KM6mECQY4DVodQ/edit?utm_content=DAF2SYuVAtk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+- 🌱 Some of my current skills are **ETL, Reverse ETL, SQL, Python, Power BI, Tableau, among others.**
+
 - 📫 How to reach me **jesusgr.99@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jesus-gonzalez-rivero/](https://www.linkedin.com/in/jesus-gonzalez-rivero/)
