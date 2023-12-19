@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesús González</h1>
 <h3 align="center">I'm a versatile data analyst in Barcelona with a diverse background that shapes my unique perspective and skills. My passion for data analysis started during my time as a Customer Service Analyst, where I discovered the fascinating world of numbers and statistics. </h3>
 
-<h3 align="center">I like various sports, from motor racing to soccer and also I practice some Muay Thai. I love photography, movies, music, traveling, reading, videogames, and being up to date with new technologies. I am constantly trying to learn new things. </h3>
+<h3 align="center">I have a diverse interest in sports, ranging from motor racing to soccer, and also I practice some Muay Thai. My passions include photography, movies, music, travel, reading, videogames, and being up to date with new technologies. Hence to that I'm constantly trying to learn new things. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijesusgonzalez" alt="ijesusgonzalez" /></a> </p>
 
